@@ -1,0 +1,27 @@
+body { 
+  /*background: url(http://shop.elvis.com.au/images/address_book_2010_display_2.jpg) no-repeat center center fixed; */
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: black;
+  color:white;
+}
+#show-contact {
+  display: none;
+}
+
+.contact {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.contact:hover {
+  text-decoration: underline;
+}
+
+#show-contact {
+
+text-align: center;
+
+}
