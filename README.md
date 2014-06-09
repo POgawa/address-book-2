@@ -1,5 +1,1 @@
-# TEST
-
-Scrabble Word Scores Solved with Obejects
-
-version 2.0
+adding an address book to utilizing javascript
